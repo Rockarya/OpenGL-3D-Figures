@@ -1,2 +1,2 @@
-# Hello-World
-Repository with code for students to test their OpenGL installation. 
+# OpenGL-3D-Figures
+3D Figures rendered on screen using OpenGL.
